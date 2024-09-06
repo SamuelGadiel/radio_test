@@ -1,0 +1,5 @@
+import 'package:radio_test/blocs/select_plan_bloc/states/select_plan_states.dart';
+
+class SelectPlanInitialState implements SelectPlanStates {
+  const SelectPlanInitialState();
+}
